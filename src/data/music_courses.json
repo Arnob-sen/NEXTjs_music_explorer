@@ -1,0 +1,93 @@
+{
+    "courses" :[
+        {
+            "id" :1,
+            "title" : "Guitar Fundamentals",
+            "slug" : "guitar-Fundamentals",
+            "description": "Learn the basic of playing guitar with our comprehensive beginners course",
+            "price":99.99,
+            "intructor": "john doe",
+            "isFeatured":true,
+            "image" : "https://as2.ftcdn.net/v2/jpg/00/64/91/37/1000_F_64913707_PNS2WMobSFvvUgZrr4LuXbPUmpTSlBl1.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "Piano Basics",
+            "slug": "piano-basics",
+            "description": "Master the fundamentals of piano playing with this comprehensive beginner's guide.",
+            "price": 79.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "https://as2.ftcdn.net/v2/jpg/01/23/45/67/1000_F_1234567890_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Photography 101",
+            "slug": "photography-101",
+            "description": "Learn the basics of photography from composition to lighting in this beginner-friendly course.",
+            "price": 119.99,
+            "instructor": "Sarah Johnson",
+            "isFeatured": false,
+            "image": "https://as2.ftcdn.net/v2/jpg/02/34/56/78/1000_F_234567890_ZabCdeFgHiJklMnoPqrStuVwxYz.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Cooking Essentials",
+            "slug": "cooking-essentials",
+            "description": "Discover the essential techniques and skills needed to become a proficient cook.",
+            "price": 89.99,
+            "instructor": "Michael Brown",
+            "isFeatured": true,
+            "image": "https://as2.ftcdn.net/v2/jpg/03/45/67/89/1000_F_34567890_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Cooking Essentials",
+            "slug": "cooking-essentials",
+            "description": "Discover the essential techniques and skills needed to become a proficient cook.",
+            "price": 89.99,
+            "instructor": "Michael Brown",
+            "isFeatured": true,
+            "image": "https://as2.ftcdn.net/v2/jpg/03/45/67/89/1000_F_34567890_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Introduction to Coding",
+            "slug": "introduction-to-coding",
+            "description": "Dive into the world of programming with this beginner-friendly introduction to coding.",
+            "price": 129.99,
+            "instructor": "David Lee",
+            "isFeatured": true,
+            "image": "https://as2.ftcdn.net/v2/jpg/04/56/78/90/1000_F_456789012_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Yoga for Beginners",
+            "slug": "yoga-for-beginners",
+            "description": "Embark on your yoga journey with this comprehensive beginner's course covering basic poses and techniques.",
+            "price": 69.99,
+            "instructor": "Emily White",
+            "isFeatured": false,
+            "image": "https://as2.ftcdn.net/v2/jpg/05/67/89/01/1000_F_567890123_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+          },
+          {
+            "id": 7,
+            "title": "Graphic Design Fundamentals",
+            "slug": "graphic-design-fundamentals",
+            "description": "Learn the basics of graphic design, including typography, color theory, and layout.",
+            "price": 109.99,
+            "instructor": "Alexandra Martinez",
+            "isFeatured": true,
+            "image": "https://as2.ftcdn.net/v2/jpg/06/78/90/12/1000_F_678901234_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+          }
+          
+          
+          
+          
+          
+
+          
+          
+    ]
+}
