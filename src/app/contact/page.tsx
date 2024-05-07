@@ -1,9 +1,9 @@
 import React from 'react'
-
+import { SignupFormDemo } from '@/components/Contact'
 const page = () => {
   return (
     <div>
-      hiii
+      <SignupFormDemo/>
     </div>
   )
 }
