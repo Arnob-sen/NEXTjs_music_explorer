@@ -19,68 +19,39 @@
             "price": 79.99,
             "instructor": "Jane Smith",
             "isFeatured": true,
-            "image": "https://as2.ftcdn.net/v2/jpg/01/23/45/67/1000_F_1234567890_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+            "image": "https://plus.unsplash.com/premium_photo-1682326302625-1e5b7826fb3c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           },
           {
             "id": 3,
-            "title": "Photography 101",
-            "slug": "photography-101",
-            "description": "Learn the basics of photography from composition to lighting in this beginner-friendly course.",
-            "price": 119.99,
-            "instructor": "Sarah Johnson",
+            "title": "Piano Mastery",
+            "slug": "piano-mastery",
+            "description": "Unlock the secrets of piano playing with our advanced course led by renowned pianist Maria Garcia",
+            "price": 149.99,
+            "instructor": "Maria Garcia",
+            "isFeatured": true,
+            "image": "https://as2.ftcdn.net/v2/jpg/02/23/58/92/1000_F_223589237_s9k0aLPKk85Hh8UzggpUCfZaK8i4IKbF.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Drum Grooves Workshop",
+            "slug": "drum-grooves-workshop",
+            "description": "Dive deep into rhythmic patterns and drum techniques in this specialized workshop by percussionist David Smith",
+            "price": 79.99,
+            "instructor": "David Smith",
             "isFeatured": false,
-            "image": "https://as2.ftcdn.net/v2/jpg/02/34/56/78/1000_F_234567890_ZabCdeFgHiJklMnoPqrStuVwxYz.jpg"
-          },
-          {
-            "id": 4,
-            "title": "Cooking Essentials",
-            "slug": "cooking-essentials",
-            "description": "Discover the essential techniques and skills needed to become a proficient cook.",
-            "price": 89.99,
-            "instructor": "Michael Brown",
-            "isFeatured": true,
-            "image": "https://as2.ftcdn.net/v2/jpg/03/45/67/89/1000_F_34567890_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
-          },
-          {
-            "id": 4,
-            "title": "Cooking Essentials",
-            "slug": "cooking-essentials",
-            "description": "Discover the essential techniques and skills needed to become a proficient cook.",
-            "price": 89.99,
-            "instructor": "Michael Brown",
-            "isFeatured": true,
-            "image": "https://as2.ftcdn.net/v2/jpg/03/45/67/89/1000_F_34567890_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+            "image": "https://as1.ftcdn.net/v2/jpg/01/71/47/75/1000_F_171477589_M3dO1W5aIEO6Wzfw7elnsu7F9nlRgTx7.jpg"
           },
           {
             "id": 5,
-            "title": "Introduction to Coding",
-            "slug": "introduction-to-coding",
-            "description": "Dive into the world of programming with this beginner-friendly introduction to coding.",
+            "title": "Vocal Performance Masterclass",
+            "slug": "vocal-performance-masterclass",
+            "description": "Transform your singing abilities with personalized coaching from vocal coach Emily Johnson",
             "price": 129.99,
-            "instructor": "David Lee",
+            "instructor": "Emily Johnson",
             "isFeatured": true,
-            "image": "https://as2.ftcdn.net/v2/jpg/04/56/78/90/1000_F_456789012_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
-          },
-          {
-            "id": 6,
-            "title": "Yoga for Beginners",
-            "slug": "yoga-for-beginners",
-            "description": "Embark on your yoga journey with this comprehensive beginner's course covering basic poses and techniques.",
-            "price": 69.99,
-            "instructor": "Emily White",
-            "isFeatured": false,
-            "image": "https://as2.ftcdn.net/v2/jpg/05/67/89/01/1000_F_567890123_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
-          },
-          {
-            "id": 7,
-            "title": "Graphic Design Fundamentals",
-            "slug": "graphic-design-fundamentals",
-            "description": "Learn the basics of graphic design, including typography, color theory, and layout.",
-            "price": 109.99,
-            "instructor": "Alexandra Martinez",
-            "isFeatured": true,
-            "image": "https://as2.ftcdn.net/v2/jpg/06/78/90/12/1000_F_678901234_AbcDefGhIjKlmNoPqrStuVwxYz.jpg"
+            "image": "https://as2.ftcdn.net/v2/jpg/01/38/79/55/1000_F_138795587_RKTKnpuDToxHqfQGCTJhzkIGJNt4Z9of.jpg"
           }
+          
           
           
           

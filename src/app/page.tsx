@@ -1,4 +1,5 @@
 import FeatureCourses from "@/components/FeatureCourses";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructor from "@/components/Instructor";
 import TestimonialCard from "@/components/TestimonialCard";
@@ -17,6 +18,7 @@ export default function Home() {
       <TestimonialCard/>
      <UpcomingWebinar/>
      <Instructor/>
+     <Footer/>
     </main>
   );
 }
